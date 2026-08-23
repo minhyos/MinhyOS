@@ -45,7 +45,7 @@ Dengan konsep **Hybrid**, Minhy OS mampu menjalankan aplikasi bawaan Linux secar
 ##  Cara Penggunaan
 
 1. **Unduh ISO Minhy OS** dari halaman [Releases](../../releases).
-2. Karena masih tahap pengembangan (alpha release) kami sarankan untuk mencoba dulu di virtual machine ygy, atau kalau mau nyoba menghidupkan kembali pc lawan anda silahkan saja :v
+2. Karena masih tahap pengembangan (alpha release) kami sarankan untuk mencoba dulu di virtual machine ygy, atau kalau mau nyoba menghidupkan kembali pc lawas anda silahkan saja :>
 3. Jika sudah booting up, anda akan melihat layar GRUB dan pilih menu pertama.
 4. Untuk login ke desktop, gunakan akun minhyos-user dengan password "user"
 5. Anda bisa nyoba-nyoba dulu di lingkungan live desktopnya, jika cocok bisa jalankan **Install Minhy OS** di desktop untuk memulai proses instalasi ke disk.

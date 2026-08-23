@@ -31,7 +31,6 @@ Dengan konsep **Hybrid**, Minhy OS mampu menjalankan aplikasi bawaan Linux secar
 -  **Pre-configured Compatibility Layer:** Sudah dibekali Wine, Winetricks, serta pendorong grafis untuk pengalaman bermain game dan produktivitas yang optimal.
 -  **Tampilan Modern & Minimalis:** Menggunakan Desktop Environment XFCE4 yang telah kami optimalisasi dan kami sesuaikan, lahirlah UI bernama **MinUI**
 
-  <img width="1200" height="800" alt="48272" src="https://github.com/user-attachments/assets/2ad59ee7-b540-430f-8561-aeb8ce2d85d8" />
 
 <img width="1360" height="768" alt="38004" src="https://github.com/user-attachments/assets/a700f942-82d6-482e-a15f-fb9f7fbed91f" />
 

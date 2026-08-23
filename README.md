@@ -3,7 +3,7 @@
 # Minhy OS
 ### **Mini Hybrid Operating System**
 
-*Solusi Distro Hybrid: Ringan di Hardware, Luas di Ekosistem!*
+*Sesuai namanya, OS ini berfokus pada dukungan hybrid dengan spesifikasi minim.*
 
 [![Debian](https://img.shields.io/badge/Base-Debian_Trixie-A81D33?logo=debian&logoColor=white)](https://www.debian.org/)
 [![Wine](https://img.shields.io/badge/Compatibility-Wine_%26_Winetricks-4E0427?logo=wine&logoColor=white)](https://www.winehq.org/)
@@ -24,19 +24,18 @@ Dengan konsep **Hybrid**, Minhy OS mampu menjalankan aplikasi bawaan Linux secar
 
 ## Fitur Utama
 
-- **Super Ultra-Lightweight:** Hanya mengonsumsi RAM sebesar **~500 MB** pada kondisi *idle*.
-- **Storage Hemat:** Hanya membutuhkan ruang penyimpanan sebesar **~9 GB** setelah diinstal.
+- **Enteng/Ringan/Lightweight/atau apalah itu:** Hanya mengonsumsi RAM sebesar **~500 MB** pada kondisi *idle*.
+- **Mini mini wow storage:** Hanya membutuhkan ruang penyimpanan sebesar **~9 GB** setelah diinstal.
 -  **Sistem Hybrid Seamless:** Jalankan aplikasi Linux Debian (`.deb`) dan file eksekusi Windows (`.exe`, `.msi`) secara berdampingan.
 -  **Pre-configured Compatibility Layer:** Sudah dibekali Wine, Winetricks, serta pendorong grafis untuk pengalaman bermain game dan produktivitas yang optimal.
--  **Tampilan Modern & Minimalis:** Antarmuka yang bersih, cepat, dan responsif tanpa *bloatware* yang memberatkan CPU.
-
+-  **Tampilan Modern & Minimalis:** Menggunakan Desktop Environment XFCE4 yang telah kami optimalisasi dan kami sesuaikan, lahirlah UI bernama **MinUI**
 ---
 
 ##  Spesifikasi Sistem
 
 | Komponen | Spesifikasi Minimum | Spesifikasi Rekomendasi |
 | :--- | :--- | :--- |
-| **RAM Usage (Idle)** | ~500 MB | 2 GB+ |
+| **RAM** | ~500 MB | 2 GB+ |
 | **Penyimpanan** | 9 GB Disk Space | 16 GB+ SSD |
 | **Arsitektur** | 64-bit (x86_64) | 64-bit (x86_64) |
 | **Ukuran ISO** | ~2.8 GB | ~2.8 GB |

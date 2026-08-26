@@ -40,8 +40,8 @@ Dengan konsep **Hybrid**, Minhy OS mampu menjalankan aplikasi bawaan Linux secar
 
 | Komponen | Spesifikasi Minimum | Spesifikasi Rekomendasi |
 | :--- | :--- | :--- |
-| **RAM** | ~500 MB | 2 GB+ |
-| **Penyimpanan** | 9 GB Disk Space | 16 GB+ SSD |
+| **RAM** | 1024 MB | 2 GB+ |
+| **Penyimpanan** | 16 GB Disk Space | 32 GB+ SSD |
 | **Arsitektur** | 64-bit (x86_64) | 64-bit (x86_64) |
 | **Ukuran ISO** | ~2.8 GB | ~2.8 GB |
 

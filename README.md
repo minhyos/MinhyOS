@@ -26,10 +26,10 @@ Dengan konsep **Hybrid**, Minhy OS mampu menjalankan aplikasi bawaan Linux secar
 ## Fitur Utama
 
 - **Enteng/Ringan/Lightweight/atau apalah itu:** Hanya mengonsumsi RAM sebesar **~500 MB** pada kondisi *idle*.
-- **Mini mini wow storage:** Hanya membutuhkan ruang penyimpanan sebesar **~9 GB** setelah diinstal.
--  **Sistem Hybrid Seamless:** Jalankan aplikasi Linux Debian (`.deb`) dan file eksekusi Windows (`.exe`, `.msi`) secara berdampingan.
+- **Mini mini wow storage:** Hanya membutuhkan ruang penyimpanan sebesar **~9 GB** setelah diinstal, ini sudah termasuk Wine beserta librarynya dan aplikasi dasar bung (tanpa bloatware, saya jamin itu).
+-  **Sistem Hybrid Seamless:** Jalankan aplikasi Linux Debian (`.deb`) dan file eksekusi Windows (`.exe`, `.msi`) secara langsung berdampingan tanpa mesin virtual.
 -  **Pre-configured Compatibility Layer:** Sudah dibekali Wine, Winetricks, serta pendorong grafis untuk pengalaman bermain game dan produktivitas yang optimal.
--  **Tampilan Modern & Minimalis:** Menggunakan Desktop Environment XFCE4 yang telah kami optimalisasi dan kami sesuaikan, lahirlah UI bernama **MinUI**
+-  **Tampilan Modern & Minimalis:** Menggunakan Desktop Environment XFCE4 yang telah kami optimalisasi dan kami sesuaikan, lahirlah UI bernama **MiwoUI** dengan ciri khas taskbar di tengah bawah dengan icon aplikasi bulat serta window bar putih elegan estetik bgt.
 
 
 <img width="1360" height="768" alt="38004" src="https://github.com/user-attachments/assets/a700f942-82d6-482e-a15f-fb9f7fbed91f" />
@@ -54,7 +54,8 @@ Dengan konsep **Hybrid**, Minhy OS mampu menjalankan aplikasi bawaan Linux secar
 3. Jika sudah booting up, anda akan melihat layar GRUB dan pilih menu pertama.
 4. Untuk login ke desktop, gunakan akun minhyos-user dengan password "user"
 5. Anda bisa nyoba-nyoba dulu di lingkungan live desktopnya, jika cocok bisa jalankan **Install Minhy OS** di desktop untuk memulai proses instalasi ke disk.
-6. Jika muncul popup/prompt meminta password, password bawaan untuk minhyos-user adalah "user"
+6. oh iya terkait instalasinya, kalian tau Debian? Lubuntu? Manjaro? nah disini kita pake Calamares sebagai installer OS-nya ygy, jadi gampang la untuk instalasinya, mirip-mirip os tersebut.
+7. Jika muncul popup/prompt meminta password, password bawaan untuk minhyos-user adalah "user"
 ---
 
 <div align="center">

@@ -1,4 +1,4 @@
-<img width="3464" height="3464" alt="1405" src="https://github.com/user-attachments/assets/d6bc073f-fc44-4d3d-8b34-0addad3d27b9" />
+<img width="1732" height="3464" alt="1732" src="https://github.com/user-attachments/assets/d6bc073f-fc44-4d3d-8b34-0addad3d27b9" />
 <div align="center">
 
 # Minhy OS

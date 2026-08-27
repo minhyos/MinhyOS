@@ -7,9 +7,12 @@ mencoba OS kami, sehingga kami memohon maaf
 apabila masih terdapat beberapa masalah dalam
 OS ini.
 
-| 🛠️ → Sedang diperbaiki. |
-| ⚠️ → Sudah diperbaiki, namun belum sepenuhnya. |
-| ✅ → Sudah diperbaiki dan aman. |
+| Simbol | Keterangan Status |
+| :---: | :--- |
+| 🛠️ | Sedang diperbaiki. |
+| ⚠️ | Sudah diperbaiki, namun belum sepenuhnya. |
+| ✅ | Sudah diperbaiki dan aman. |
+
 
 **Masalah yang diketahui saat ini**
 1. OS tidak dapat terinstal ke disk karena

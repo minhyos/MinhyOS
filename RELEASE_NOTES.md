@@ -16,10 +16,11 @@ OS ini.
 
 **Masalah yang diketahui saat ini**
 1. OS tidak dapat terinstal ke disk karena
-   terjadi bentrok pada sistem internal OS.
+   disk id masih tersangkut pada lingkungan pengembangan saat diinstal ke disk lain.
    Status: 🛠️
 2. Pada saat booting Plymouth tidak muncul dan
    sistem hanya menampilkan boot splash berupa
    teks.
    Status: 🛠️
  
+(note: nomor kecil lebih diprioritaskan, misal 1 > 2 > 3 dst.)
